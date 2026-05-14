@@ -3,7 +3,7 @@
 **Status:** Under Development ⏳
 
 ## Project Overview
-This project is an ongoing academic research initiative that conducts a comparative study between traditional Ordinary Least Squares (OLS) regression and advanced Machine Learning algorithms to evaluate asset pricing models, specifically the **Fama-French 5-Factor model**, within emerging markets.
+This project is an ongoing academic research initiative that conducts a comparative study between traditional Ordinary Least Squares (OLS) regression and advanced Machine Learning algorithms to evaluate asset pricing models, specifically the **Fama-French 5-Factor model**, within the Egyptian Stock Exchange (EGX).
 
 ## Research Objectives
 1. **Factor Construction:** Construct the Fama-French 5 Factors (Market Risk, SMB, HML, RMW, CMA) tailored for the target market.
