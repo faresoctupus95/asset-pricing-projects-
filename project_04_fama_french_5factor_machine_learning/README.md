@@ -11,5 +11,5 @@ This project is an ongoing academic research initiative that conducts a comparat
 3. **Machine Learning Approach:** Train and deploy Machine Learning models (e.g., Random Forest, Gradient Boosting) to predict asset returns based on the 5 factors.
 4. **Comparative Analysis:** Compare the predictive accuracy ($R^2$, RMSE) and feature importance between the traditional and ML paradigms.
 
-## Note to Reviewers
-This repository folder is currently serving as a workspace for an ongoing Master's research proposal. Code, datasets (anonymized), and Jupyter Notebooks will be progressively uploaded as the research phases are completed.
+## Future Updates
+This repository folder is currently serving as a workspace for an ongoing independent research project. Code, datasets (anonymized), and Jupyter Notebooks will be progressively uploaded as the research phases are completed.
